@@ -32,9 +32,11 @@ body {
     color: var(--color-text);
     background-color: var(--color-background);
 }
+
 #readers{
     display:flex;
 }
+
 .container {
     width: min(var(--container-width), 90%);
     margin: 0 auto;
