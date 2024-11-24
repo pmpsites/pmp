@@ -154,6 +154,9 @@
   .intro__highlight {
     font-weight: 600;
   }
+  .pf{
+    font-family:'Courier New', Courier, monospace;
+  }
   
   /* Features Card */
   .features-card {
