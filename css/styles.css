@@ -1,6 +1,6 @@
 :root {
-    --color-primary: #a07074;
-    --color-primary-dark: #7e383c;
+    --color-primary: #a07074;  /*#eb2535*/
+    --color-primary-dark: #7e383c; /* #94060d */
     --color-secondary: #475569;
     --color-text: #1e293b;
     --color-background: #ffffff;
@@ -60,7 +60,7 @@ h3 {
 }
 
 p {
-    margin-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-sm);
 }
 
 .cta-button {
